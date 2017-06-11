@@ -1,0 +1,16 @@
+#portfolio{
+    padding: 20px;
+}
+
+.elementPortfolio{
+    box-shadow: 7px 7px 5px #888888;
+    margin-bottom: 15px;
+}
+
+.elementPortfolio:hover{
+    opacity: 0.8;
+}
+
+.rowPadding{
+    padding-bottom: 20px;
+}

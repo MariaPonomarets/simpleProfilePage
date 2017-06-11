@@ -1,0 +1,35 @@
+.headerStyle {
+    background-color: #252627;
+    border-radius: 0;
+    border-width: 0;
+    margin-bottom: 0;
+}
+
+.intro {
+    background: transparent url("https://uploads.strikinglycdn.com/static/backgrounds/nature/182.jpg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.info{
+    color: #ffffff;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.title{
+    text-align: center;
+    font-size: 18px;
+}
+
+.menuElem{
+    font-size: 14px;
+}

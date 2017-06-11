@@ -1,0 +1,34 @@
+{
+  "info": {
+    "name": "Mariia Ponomarets",
+    "profession": "Front - end developer",
+    "icon":"https://blackrockdigital.github.io/startbootstrap-freelancer/img/profile.png",
+    "whatIdo":"I build and develop mobile app.",
+    "iDoNotDo":"I don't want use gatsby never again!!!",
+    "aboutMe":"The Front End Developer is responsible for creating and implementing visual and interactive elements in a web application that users can actively engage with through their web browser. They work with back end developers as well who are responsible for all server-side applications that help a web site run properly and efficiently. Being a Front End Developer means you are extremely knowledgeable with front-end technology including interpreting graphic visuals and designs in development languages HTML, CSS and JavaScript. All these are used for coding design to make a web site look and feel amazing to the end user.",
+    "portfolioList":[{
+      "siteUrl":"http://868301.vt222688.web.hosting-test.net/",
+      "thumbnail":"https://api.monosnap.com/rpc/file/download?id=jMZ5uyKjOf8CBybyhOrRDhNyQOSXPF"
+    },{
+      "siteUrl":"http://868301.vt222688.web.hosting-test.net/",
+      "thumbnail":"https://api.monosnap.com/rpc/file/download?id=jMZ5uyKjOf8CBybyhOrRDhNyQOSXPF"
+    },{
+      "siteUrl":"http://868301.vt222688.web.hosting-test.net/",
+      "thumbnail":"https://api.monosnap.com/rpc/file/download?id=jMZ5uyKjOf8CBybyhOrRDhNyQOSXPF"
+    }],
+    "skills":[
+      {
+        "title":"My skills",
+        "listSkills":["HTML5","CSS3","JS","JQuery"]
+      },
+      {
+        "title":"My skills",
+        "listSkills":["Git","Sass","Bootstrap","Angular2"]
+      },
+      {
+        "title":"My skills",
+        "listSkills":["React","Ionic2","React Native","TypeScript"]
+      }
+    ]
+  }
+}
